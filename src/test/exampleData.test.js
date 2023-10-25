@@ -1,7 +1,7 @@
 import getExampleData from "../exampleData";
 
 // Create mock functions and set up global mocks
-const TEST_VALUE = 3;
+const TEST_VALUE = 6;
 
 const mockFetchSuccess = jest.fn().mockResolvedValue({
   ok: true,
