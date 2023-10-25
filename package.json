@@ -1,0 +1,23 @@
+{
+  "name": "automated-testing",
+  "version": "0.0.1",
+  "description": "automated testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kribac12/automated-testing.git"
+  },
+  "keywords": [
+    "jest",
+    "cypress"
+  ],
+  "author": "kribac12, kristinembache@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kribac12/automated-testing/issues"
+  },
+  "homepage": "https://github.com/kribac12/automated-testing#readme"
+}
